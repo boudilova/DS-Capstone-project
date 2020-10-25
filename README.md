@@ -1,2 +1,2 @@
 # DS-Capstone-project
-first project with github. proje
+project for location data providers analyze
